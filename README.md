@@ -1,6 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ErickOlivei/ErickOlivei/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
+Hiii, I'm Erick Felipe and I'm starting a software developer career.
 <p align="center">
 
 I ❤️ solve great challenges using tech.
